@@ -2,14 +2,14 @@
 title: "Attach a EBS disk to a EC2 instance"
 excerpt: "Without rebooting the server"
 category: 'linux'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/ebs_to_ec2.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Nahuel Chaves
   picture: '/assets/blog/authors/nahuel.jpeg'
 cover: ec2.png
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/ebs_to_ec2.png'
 ---
 
 ```
